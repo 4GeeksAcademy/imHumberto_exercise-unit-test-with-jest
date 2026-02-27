@@ -28,4 +28,4 @@ console.log(fromDollarToYen(1))
 console.log(fromEuroToDollar(1))
 console.log(fromYenToPound(1))
 
-module.exports = {fromEuroToDollar, fromEuroToDollar, fromYenToPound}
+module.exports = {fromDollarToYen, fromEuroToDollar, fromYenToPound}
